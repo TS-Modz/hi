@@ -1,7 +1,7 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "title": " Update Found V12.00",
-  "message": "Update Your Plus",
+  "message": "Update Your Plus Messanger",
   "button_text": "Download Now",
   "button_url": "https://PlusProApp.blogspot.com"
 
