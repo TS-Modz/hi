@@ -1,5 +1,5 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "title": " Update Found V12.00",
   "message": "Update Your Plus",
   "button_text": "Download Now",
